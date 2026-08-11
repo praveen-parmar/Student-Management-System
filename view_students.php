@@ -114,12 +114,19 @@ $result = $conn->query($sql);
             </td>
 
             <td>
-
+                <a
+                class="button"
+                 href="edit_student.php?id=<?php echo $row['student_id']; ?>"
+>
+                    Edit
+                </a>
+                <br><br>
                 <a
                     class="button"
                     href="delete_student.php?id=<?php echo $row['student_id']; ?>"
                     onclick="return confirm('Are you sure you want to delete this student?');"
                 >
+                
                     Delete
                 </a>
 

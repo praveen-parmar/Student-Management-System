@@ -51,13 +51,13 @@ http://localhost/Student-Management-System/
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](screenshots/home.png)
+![Home Page](Screenshots/home.png)
 
 ### Add Student
-![Add Student](screenshots/add-student.png)
+![Add Student](Screenshots/add-student.png)
 
 ### View Students
-![View Students](screenshots/view-students.png)
+![View Students](Screenshots/view-students.png)
 
 ## 🎯 Project Purpose
 
